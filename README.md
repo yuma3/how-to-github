@@ -13,6 +13,7 @@ to learn Git
 
 ### git checkout <branch name>
 - 指定したbranchに移動
+- -bオプションでブランチを作成し、移動
 
 
 ### git add <target>

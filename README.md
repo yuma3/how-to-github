@@ -25,6 +25,14 @@ to learn Git
 
 ### git merge 
 - 今いるブランチにマージする
+- merge には種類がある
+    1. fast forward
+        - 修正が一方のみ
+    2. Automatic merge
+        - 修正箇所が被ってない
+    3. conflict
+        - 修正箇所が被っている
+
 
 
 ### git log
@@ -59,5 +67,6 @@ to learn Git
 ## .gitignore
 - Gitで管理しないファイル、フォルダを定義
 - https://github.com/github/gitignore
+
 
 

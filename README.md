@@ -69,4 +69,4 @@ to learn Git
 - https://github.com/github/gitignore
 
 
-Conflict発生
+conflict発生

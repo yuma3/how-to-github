@@ -67,3 +67,6 @@ to learn Git
 ## .gitignore
 - Gitで管理しないファイル、フォルダを定義
 - https://github.com/github/gitignore
+
+
+Conflict発生

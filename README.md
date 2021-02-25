@@ -64,6 +64,10 @@ to learn Git
 ### git show <commit ID>
 - コミット情報の表示
 
-## .gitignore
+## .gitignore（）
 - Gitで管理しないファイル、フォルダを定義
 - https://github.com/github/gitignore
+
+
+main branch (conflict発生)
+

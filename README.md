@@ -69,5 +69,4 @@ to learn Git
 - https://github.com/github/gitignore
 
 
-main branch (conflict発生)
 

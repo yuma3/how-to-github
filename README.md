@@ -47,6 +47,7 @@ to learn Git
 
 ### git pull <remote repository> <branch name>
 - fetch・mergeという処理をまとめて行っている
+- 現在いるブランチにプル
 
 ### git fetch <remote reference>
 - remote referenceはリモートリポのリファレンス名。originなど
@@ -77,4 +78,5 @@ to learn Git
 - https://github.com/github/gitignore
 
 
-
+## Tips
+- origin/main -> ローカルリポジトリーにあるリモートリポジトリのリファレンス。

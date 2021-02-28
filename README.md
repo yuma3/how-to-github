@@ -33,6 +33,9 @@ to learn Git
     3. conflict
         - 修正箇所が被っている
 
+### git diff <base> <compare>
+- branch間の差分を確認
+
 
 
 ### git log
@@ -45,6 +48,11 @@ to learn Git
 ### git pull <remote repository> <branch name>
 - fetch・mergeという処理をまとめて行っている
 
+### git fetch <remote reference>
+- remote referenceはリモートリポのリファレンス名。originなど
+- remote referenceを省略した場合、デフォルトはorigin
+- データをとってくるだけ。マージはしない。
+- ローカルリポのremotes/remote ref/branch nameに情報が更新されていく。
 ### git push <remote repository> <branch name>
 - github上でpull reequestpull reequest
 

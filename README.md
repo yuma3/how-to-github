@@ -80,3 +80,8 @@ to learn Git
 
 ## Tips
 - origin/main -> ローカルリポジトリーにあるリモートリポジトリのリファレンス。
+
+Githubで更新
+
+### git restore <file>で更新
+### git restore <file>
